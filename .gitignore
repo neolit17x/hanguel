@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.backup
+*.before-path-fix
+.env
+credentials.json
+token.json
+vocabulary.db
+matching_words_cache.json
+hangeul-data-backup.json
